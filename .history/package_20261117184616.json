@@ -1,0 +1,24 @@
+{
+  "name": "api-controle-embalagem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielRLopes/api-controle-embalagem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DanielRLopes/api-controle-embalagem/issues"
+  },
+  "homepage": "https://github.com/DanielRLopes/api-controle-embalagem#readme"
+}
